@@ -65,8 +65,7 @@ The Greatest Calculator App (By Alexander Mihalcea and Vaibhav Satish)
             to a string and added to the simplified equation.
         
         * The Graphing Calculator class is called when an equation starting with "y=" is provided, and heavily relies on
-        the calculator class (done by Alex with minor edits by Vaibhav)
-            
+        the calculator class 
             - Its primary function, Graph_equation, takes the user inputed equation, along with the presets for 
             graph size (ie. 10 would mean graph size would be [-10, 10]x and [-10,10] y), and also the preset
             for steps (ie. 2 would mean 2 points for each whole number in the x range,(x=-10,-9.5,-9, etc.)). 
