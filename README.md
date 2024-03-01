@@ -11,7 +11,7 @@ The Greatest Calculator App (By Alexander Mihalcea and Vaibhav Satish)
 
     Architecture:
     
-        * Our program has a primary UI class, which is what needs to be run(done by Vaibhav)
+        * Our program has a primary UI class, which is what needs to be run
 
             -The UI(RUN THIS CLASS). 
              The UI allows the user to interact with our calculator. 
@@ -46,7 +46,7 @@ The Greatest Calculator App (By Alexander Mihalcea and Vaibhav Satish)
                 This is where the user will input their equation. the computer will read this equation once the submit button 
                 is pushed and the program will do the necessary to provide a result. 
               
-        * The Calculator class is the main arithmatic class (done by Alex with minor edits by Vaibhav):
+        * The Calculator class is the main arithmatic class:
             
             - Its primary meathod, "Translate", is given a string of the equation,
             and its primary function is to recursivly find parenthases, espesially
